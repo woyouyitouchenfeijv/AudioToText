@@ -1,0 +1,13 @@
+/target/
+*.settings/*
+*.svn/*
+.svn
+.svn/
+.project
+.classpath
+*.iml
+.idea/*
+/bin/
+/build/
+/out/
+/.gitignore
